@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Pixelator\Pixelator\obj\Debug\Pixelator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Pixelator\Pixelator\obj\Debug\Pixelator.Form1.resources
+C:\Users\User\source\repos\Pixelator\Pixelator\obj\Debug\Pixelator.Properties.Resources.resources
+C:\Users\User\source\repos\Pixelator\Pixelator\obj\Debug\Pixelator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Pixelator\Pixelator\obj\Debug\Pixelator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pixelator\Pixelator\bin\Debug\Pixelator.exe.config
+C:\Users\User\source\repos\Pixelator\Pixelator\bin\Debug\Pixelator.exe
+C:\Users\User\source\repos\Pixelator\Pixelator\bin\Debug\Pixelator.pdb
+C:\Users\User\source\repos\Pixelator\Pixelator\obj\Debug\Pixelator.exe
+C:\Users\User\source\repos\Pixelator\Pixelator\obj\Debug\Pixelator.pdb
